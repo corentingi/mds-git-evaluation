@@ -1,6 +1,8 @@
 import os
 
 def print_env(env):
+    for k, v in env.items():
+        print("%s: %s" % (k, v))
     """This method displays the environment variables"""
     pass
 
