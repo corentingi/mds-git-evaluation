@@ -1,4 +1,4 @@
-gimport os
+import os
 
 def print_env(env):
     """This method displays the environment variables"""
