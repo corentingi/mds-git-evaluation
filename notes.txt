@@ -1,6 +1,0 @@
-Fait:
-- Implémenter la fonction
-
-A faire:
-- Pousser sur mon repo GitHub
-- Créer la merge request
